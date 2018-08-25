@@ -1,4 +1,4 @@
-# cryostore
+# cryostore (a prototype to show crystorage design ideas)
 
 ## Project setup
 ```
